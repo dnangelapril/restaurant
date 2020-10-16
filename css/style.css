@@ -74,7 +74,7 @@ img {
     }
 }
 .logo {
-    background-image: url("../../img/CL-union.gif");
+    background-image: url("CL-union.gif");
     background-repeat: no-repeat;
     background-size: contain;
     display: flex;
@@ -120,7 +120,7 @@ img {
 }
 .banner {
     height: 491px;
-    background-image: url("../../img/vegetable2.png");
+    background-image: url("vegetable2.png");
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
