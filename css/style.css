@@ -151,13 +151,11 @@ img {
     }
 }
 .pic{
-    width: 200px;
+    width: 300px;
+    height: 300px;
     display: flex;
     align-items: center;
     justify-content: center;  
-}
-.cake{
-    height: 280px;
 }
 .food-item h2 {
     padding: 10px 0;
