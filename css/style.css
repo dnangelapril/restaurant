@@ -136,12 +136,6 @@ img {
     text-align: center;
     align-items: baseline;
 }
-.pic{
-    width: 200px;
-    display: flex;
-    align-items: center;
-    justify-content: center;  
-  }
 .food-item li {
     border: 1px solid rgb(230, 227, 227);
     width: 30%;    
@@ -156,8 +150,18 @@ img {
         width: 100%;
     }
 }
+.pic{
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;  
+}
+.cake{
+    height: 280px;
+}
 .food-item h2 {
-    font-size: 25px;
+    padding: 10px 0;
+    font-weight: bold;
 }
 .footer {
     background: gray;
@@ -165,4 +169,6 @@ img {
     text-align: center;
     padding: 10px 0px;
 }
-
+.footer p:first-child{
+    margin-bottom: 10px;
+}
