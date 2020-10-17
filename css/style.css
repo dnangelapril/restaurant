@@ -152,13 +152,13 @@ img {
     }
 }
 .pic{
-    height: 350px;;
+    height: 348px;;
     display: flex;
     align-items: center;
     justify-content: center;  
 }
 .cake{
-    height: 280px;
+    height: 300px;
 }  
 .food-item h2 {
     padding: 10px 0;
